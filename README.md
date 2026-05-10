@@ -1,2 +1,3 @@
 # mankesh_tutorial
-my tutorial repo
+my git tutorial repo
+mankes singh
